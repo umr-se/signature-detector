@@ -2,3 +2,5 @@
 *.md linguist-documentation
 *.json linguist-vendored
 myenv/* linguist-vendored
+*.ps1 linguist-detectable=false
+*.bat linguist-detectable=false
